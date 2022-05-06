@@ -1,0 +1,17 @@
+input {
+  margin: 5px 10px 10px 50px;
+  height: 25px;
+  width: 250px;
+}
+.fieldtwo {
+  margin-left: 50px;
+  width: 890px;
+}
+#h {
+  margin-left: 70px;
+  padding: 0px;
+}
+#para2 {
+  margin-top: -25px;
+  margin-left: 450px;
+}
